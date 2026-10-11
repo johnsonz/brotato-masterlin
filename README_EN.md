@@ -10,7 +10,7 @@ Adds brand-new characters, weapons, items and pets to Brotato. Every character c
 
 | Type | Count |
 |:---:|:---:|
-| 🥔 Characters | 46 |
+| 🥔 Characters | 48 |
 | ⚔️ Weapons  | 16 |
 | 🎒 Items | 12 |
 | 🐾 Pets | 3 |
@@ -70,6 +70,8 @@ Adds brand-new characters, weapons, items and pets to Brotato. Every character c
 | Suo Chao <br>the Vanguard | <small>*Born in Hebei, foremost among the brave,*<br>*He earned great honors in the wars he gave.*<br>*His phoenix-patterned cloak guards silver armor bright,*<br>*An iron-bow rests within his belt, prepared for fight.*<br>*His courage rivals heroes of the ancient age,*<br>*His strength can split Mount Hua in warrior rage.*<br>*Across his steed he bears his golden-socketed axe,*<br>*Suo Chao, the Vanguard—who never turns his back.*</small> |
 | Chao Gai <br>the Pagoda-Bearing Heavenly King | <small>*His mighty name makes borderlands bow in fear,*<br>*The Heavenly King of Liangshan, none can draw near.*<br>*Yet for the ill-fated campaign at Zengtou Town,*<br>*He rushed forth too soon—and a hero fell down.*<br>*Thus Chao Gai, whose power shook earth and sky,*<br>*The Pagoda-Bearing Heavenly King, was destined to die.*</small> |
 | The Ruan Brothers | <small>*Three brothers rose from Shijiecun's shore,*<br>*At Lia'erwa, the wild winds roar.*<br>*Ruan Xiao'er, the Earthly God of War,*<br>*Ruan Xiao-wu, brave as the ancient Erlang.*<br>*And Ruan Xiao-qi, the Living Yama, fierce and grim,*<br>*With iron-forged hearts no hardship could dim.*<br>*Yellow hair and iron ribs, they feared no foe,*<br>*With iron staves and bronze bells ringing as they go.*<br>*They took the Birthday Tribute with wit and cheer,*<br>*Then shared Liangshan's fate through every year.*<br>*When imperial wine came, they changed the brew,*<br>*Played at robes of dragons, then returned to the blue.*<br>*Back to their boats, where the river winds roam—*<br>*The fishermen's hut was still their home.*<br>*Say not that fishermen lack a hero's heart,*<br>*They laughed at lords and called their grandeur false art.*<br>*A thousand years may pass, yet the fishermen's song remains—*<br>*Their spirits still haunt the misty waters and distant rains.*</small> |
+| Lei Heng <br>the Winged Tiger | <small>*A star from Heaven lights the earth,*<br>*And one among them proves his worth.*<br>*The captain Lei Heng, good and bold,*<br>*A tale of bravery retold.*<br>*His fists are strong, his feet are light,*<br>*Like lightning flashing in the night.*<br>*He leaps o'er walls and streams in flight,*<br>*No hero dares to match his might.*<br>*The Winged Tiger of Shandong's name*<br>*Through all the seas has won its fame.*</small> |
+| Han Tao <br>the Ever-Victorious | <small>*His family's art of war runs deep and long,*<br>*His mind is broad, his spirit bold and strong.*<br>*He hefts the jujube lance with practiced hand,*<br>*And loves to wear the broidered robe of command.*<br>*On level ground he'd seize a tiger fierce,*<br>*Through distant skies his arrows eagles pierce.*<br>*Chenzhou's training envoy, in battle's flame—*<br>*Han Tao, the “Hundred Victories” by name.*</small> |
 </details>
 
 <details open>

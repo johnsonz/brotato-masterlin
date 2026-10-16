@@ -10,7 +10,7 @@ Adds brand-new characters, weapons, items and pets to Brotato. Every character c
 
 | Type | Count |
 |:---:|:---:|
-| 🥔 Characters | 49 |
+| 🥔 Characters | 50 |
 | ⚔️ Weapons  | 16 |
 | 🎒 Items | 12 |
 | 🐾 Pets | 3 |
@@ -18,8 +18,8 @@ Adds brand-new characters, weapons, items and pets to Brotato. Every character c
 
 ---
 
-<details open>
-<summary><strong style="font-size: 1.5em;">Characters</strong></summary>
+<details>
+<summary><strong style="font-size: 1.5em;">Characters (50)</strong></summary>
 <br>
 
 | Character | A poem praises him thus |
@@ -74,7 +74,7 @@ Adds brand-new characters, weapons, items and pets to Brotato. Every character c
 | Han Tao <br>the Ever-Victorious | <small>*His family's art of war runs deep and long,*<br>*His mind is broad, his spirit bold and strong.*<br>*He hefts the jujube lance with practiced hand,*<br>*And loves to wear the broidered robe of command.*<br>*On level ground he'd seize a tiger fierce,*<br>*Through distant skies his arrows eagles pierce.*<br>*Chenzhou's training envoy, in battle's flame—*<br>*Han Tao, the “Hundred Victories” by name.*</small> |
 </details>
 
-<details open>
+<details>
 <summary><strong style="font-size: 1.5em;">Weapons (16)</strong></summary>
 <br>
 
@@ -98,7 +98,7 @@ Adds brand-new characters, weapons, items and pets to Brotato. Every character c
 | Water-Ground Monk Staff | <small>*The monk's staff clears the perilous way,*<br>*It smites the wicked and breaks injustice in the fray.*</small> |
 </details>
 
-<details open>
+<details>
 <summary><strong style="font-size: 1.5em;">Items (12)</strong></summary>
 <br>
 
@@ -118,7 +118,7 @@ Adds brand-new characters, weapons, items and pets to Brotato. Every character c
 | Iron Certificate of Merit | <small>*Passed down through generations, this iron writ stands true,*<br>*One seal upon its ancient face can spare a life anew.*</small> |
 </details>
 
-<details open>
+<details>
 <summary><strong style="font-size: 1.5em;">Pets (3)</strong></summary>
 <br>
 

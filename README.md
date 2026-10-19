@@ -10,7 +10,7 @@
 
 | 类型 | 数量 |
 |:---:|:---:|
-| 🥔 角色 | 50 |
+| 🥔 角色 | 52 |
 | ⚔️ 武器 | 16 |
 | 🎒 道具 | 12 |
 | 🐾 宠物 | 3 |
@@ -19,7 +19,7 @@
 ---
 
 <details>
-<summary><strong style="font-size: 1.5em;">角色(50 名)</strong></summary>
+<summary><strong style="font-size: 1.5em;">角色(52 名)</strong></summary>
 <br>
 
 | 角色 | 有诗赞曰 |
@@ -133,6 +133,10 @@
 
 见 [CHANGELOG.md](CHANGELOG.md)。
 
+## 游玩小提示
+
+见 [TIPS.md](TIPS.md)。
+
 ## 支持
 
-如果喜欢这个 mod，[SUPPORT.md](SUPPORT.md)。
+如果喜欢这个 mod，[点击支持一下](SUPPORT.md)。

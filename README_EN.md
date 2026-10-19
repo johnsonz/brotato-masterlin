@@ -10,7 +10,7 @@ Adds brand-new characters, weapons, items and pets to Brotato. Every character c
 
 | Type | Count |
 |:---:|:---:|
-| 🥔 Characters | 50 |
+| 🥔 Characters | 52 |
 | ⚔️ Weapons  | 16 |
 | 🎒 Items | 12 |
 | 🐾 Pets | 3 |
@@ -19,7 +19,7 @@ Adds brand-new characters, weapons, items and pets to Brotato. Every character c
 ---
 
 <details>
-<summary><strong style="font-size: 1.5em;">Characters (50)</strong></summary>
+<summary><strong style="font-size: 1.5em;">Characters (52)</strong></summary>
 <br>
 
 | Character | A poem praises him thus |

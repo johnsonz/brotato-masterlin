@@ -10,7 +10,7 @@
 
 | 类型 | 数量 |
 |:---:|:---:|
-| 🥔 角色 | 52 |
+| 🥔 角色 | 53 |
 | ⚔️ 武器 | 16 |
 | 🎒 道具 | 12 |
 | 🐾 宠物 | 3 |
@@ -19,7 +19,7 @@
 ---
 
 <details>
-<summary><strong style="font-size: 1.5em;">角色(52 名)</strong></summary>
+<summary><strong style="font-size: 1.5em;">角色(53 名)</strong></summary>
 <br>
 
 | 角色 | 有诗赞曰 |

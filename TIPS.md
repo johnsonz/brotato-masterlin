@@ -20,3 +20,8 @@
 
 > 多吃**水果**和蔬菜对身体好
 </details>
+<details>
+<summary><b>旱地忽律·朱贵</b></summary>
+
+> 喜欢什么就**一直吃**就是了，也尽量不要挑食
+</details>

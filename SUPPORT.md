@@ -13,7 +13,7 @@ If you enjoy this character pack, buying me a coffee would be greatly appreciate
 
 ## 其他支持方式 / Other Ways to Support
 
-暂时不想花钱？这些同样是对作者的巨大支持：
+这些同样是对作者的巨大支持：
 
 - 📢 把 mod 推荐给一起玩的朋友
 - 🐛 反馈 Bug 和平衡性建议([提交 Issue](../../issues))
